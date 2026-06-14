@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python --version; \\(Get-Command python\\).Source; pip --version)",
+      "PowerShell(py -3.13 jarvis.py)"
+    ]
+  }
+}
