@@ -1,4 +1,4 @@
-Here you go, just copy and paste this:
+
 # JARVIS — Personal AI Assistant
 
 A voice + text AI assistant for Windows powered by Claude, with real tool use.
